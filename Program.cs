@@ -17,6 +17,9 @@
 //Console.WriteLine(number);
 #endregion
 
+
+#region Task2
+
 //int number;
 //restart:
 //bool isParsed = int.TryParse(Console.ReadLine(), out number);
@@ -42,7 +45,7 @@
 //}
 
 //Console.WriteLine(max);
-
+#endregion 
 //1,2,4,5,5=>1,2,4,5
 int[] numbers = [1, 2, 3, 4, 5];
 int deletedNumber = 1;
